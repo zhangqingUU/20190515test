@@ -8,7 +8,7 @@ public class StudentInfo {
 	private String name;
 	
 	public void showTest() {
-		System.out.println("你好！");
+		System.out.println("你好！Again！");
 	}
 	
 }
